@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import * as React from "react";
+import { Routes, Route, } from "react-router-dom";
+import Header from "./components/Header";
+import Home from "./pages/Home";
+const About = React.lazy(() => import("./pages/About"));
+const Error = React.lazy(() => import("./pages/Error"));
+export default function App() {
+  const title = "Rachon Resume";
 
-function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header title={title} />
+
+      <Routes>
+      <Route path="/" >
+        <Route index element={<Home/>} />
+        <Route path="about" element={
+        <React.Suspense fallback={<>...</>}>
+           <About />
+        </React.Suspense>
+       } />
+        <Route path="*" element={
+             <React.Suspense fallback={<>...</>}>
+             <Error />
+          </React.Suspense>
+        } />
+        </Route>
+      </Routes>
+    </>
   );
 }
-
-export default App;

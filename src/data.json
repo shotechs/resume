@@ -1,0 +1,78 @@
+{
+      "describe": "Highly self-motivated and goal-oriented professional committed to pursuing a long-term career in web design. Offers a 10-year record of accomplishment that demonstrates strong analytical skills and problem solving expertise, compute platform proficiency, and great success with projects from ideation to completion. Owns a reputation for consistently exceeding client expectations for sophisticated web site development and functionality along with content management and precise theme creation.",
+      "contact": {
+        "name": "Rachon Dixon",
+        "phone": "(571) 572-2466",
+        "email": "shotechs@gmail.com",
+        "location": "Washington, D.C."
+      },
+      "portfolios": [
+        {
+          "site": "ShoLab.com",
+          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
+          "describe": "describe"
+        },
+        {
+          "site": "ShoLab.com",
+          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
+          "describe": "describe"
+        },
+        {
+          "site": "ShoLab.com",
+          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
+          "describe": "describe"
+        }
+      ],
+      "skills": [
+        {
+          "name": "html",
+          "progress": 100
+        },
+        {
+          "name": "React",
+          "progress": 100
+        },
+        {
+          "name": "Ruby",
+          "progress": 100
+        },
+        {
+          "name": "C++",
+          "progress": 100
+        }
+      ],
+      "topics": [
+        {
+          "name": "html",
+          "lists": ["test1", "test2", "test3"]
+        },
+        {
+          "name": "html2",
+          "lists": ["test1", "test2", "test3"]
+        },
+        {
+          "name": "html3",
+          "lists": ["test1", "test2", "test3"]
+        }
+      ],
+      "works": [
+        {
+          "company1": "company1",
+          "company2": "company2",
+          "start_date": "06/2021",
+          "end_date": "01/22",
+          "jobTitle": "Serverless API Developer",
+          "describe": "API design standards, patterns and best-practices especially Microservices • Knowledge of authentication, authorization of services via OAuth 2 • Test Junit, SOAPUI, Selenium, Cucumber, Postman • Java, Spring/Spring Boot, Hibernate • Relational and/or non-relational databases • JavaScript (NodeJS, ReactJS, AngularJS, Ionic), HTML5, CSS3 • CI/CD tools Jenkins, Maven, Jira, BitBucket • Experience working with agile methodologies (Scrum)",
+          "topics": ["NodeJS", "ReactJS", "AngularJS"]
+        },
+        {
+          "company1": "company1",
+          "company2": "company2",
+          "start_date": "06/2021",
+          "end_date": "01/22",
+          "jobTitle": "Serverless API Developer",
+          "describe": "API design standards, patterns and best-practices especially Microservices • Knowledge of authentication, authorization of services via OAuth 2 • Test Junit, SOAPUI, Selenium, Cucumber, Postman • Java, Spring/Spring Boot, Hibernate • Relational and/or non-relational databases • JavaScript (NodeJS, ReactJS, AngularJS, Ionic), HTML5, CSS3 • CI/CD tools Jenkins, Maven, Jira, BitBucket • Experience working with agile methodologies (Scrum)",
+          "topics": ["NodeJS", "ReactJS", "AngularJS"]
+        }
+      ]
+}

@@ -1,0 +1,115 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "header/header";
+
+@media print {
+  .logo-container,
+  .img-wrapper,
+  img {
+    max-height: 50px !important;
+    height: 100% !important;
+  }
+
+  .text-bg-dark {
+    color: black !important;
+  }
+
+.badge {
+  color: black !important;
+}
+
+.site {
+  color: black !important;
+}
+
+}
+
+.CopyR {
+  text-align: center;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.p1p {
+  padding: 1%;
+}
+
+.tc {
+  text-align: center;
+}
+
+.w90p {
+  width: 90%;
+}
+
+.w95p {
+  width: 95%;
+}
+
+.w100p {
+  width: 100%;
+}
+
+.w50p {
+  width: 50%;
+}
+
+.w30p {
+  width: 30%;
+}
+
+.w10p {
+  width: 10%;
+}
+
+.modal-open .modal {
+  overflow: hidden;
+}
+
+.modal-content {
+  max-height: 90vh;
+}
+
+.modal-body {
+  overflow-y: scroll;
+}
+
+// skills
+.skills {
+  span {
+    display: flex;
+  }
+  .skillName {
+    text-align: initial;
+  }
+  .progress {
+    width: 100%;
+  }
+  .row {
+    align-items: center;
+    .column:first-child {
+      width: 30%;
+    }
+    .column:last-child {
+      width: 70%;
+    }
+    .column {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+    }
+  }
+}
+
+//qualifications
+
+//Topic
+
+//Work
+
+//Portfolio
