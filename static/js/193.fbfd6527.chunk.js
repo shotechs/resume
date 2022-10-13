@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresume=self.webpackChunkresume||[]).push([[193],{193:function(e,r,s){s.r(r);s(791);var c=s(87),n=s(184);r.default=function(){return(0,n.jsx)("div",{className:"row",children:(0,n.jsxs)("div",{className:"col",children:[(0,n.jsx)("h1",{children:"Error Page 404"}),(0,n.jsx)(c.rU,{to:"/",children:"Go to Login"})]})})}}}]);
+//# sourceMappingURL=193.fbfd6527.chunk.js.map
