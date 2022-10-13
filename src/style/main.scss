@@ -1,27 +1,6 @@
 @import "../../node_modules/bootstrap/scss/bootstrap";
 @import "header/header";
 
-@media print {
-  .logo-container,
-  .img-wrapper,
-  img {
-    max-height: 50px !important;
-    height: 100% !important;
-  }
-
-  .text-bg-dark {
-    color: black !important;
-  }
-
-.badge {
-  color: black !important;
-}
-
-.site {
-  color: black !important;
-}
-
-}
 
 .CopyR {
   text-align: center;
@@ -93,15 +72,32 @@
   .row {
     align-items: center;
     .column:first-child {
-      width: 30%;
+      width: 50%;
     }
     .column:last-child {
-      width: 70%;
+      width: 50%;
     }
     .column {
       display: flex;
       flex-wrap: wrap;
-      flex-direction: column;
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .skills {
+    .row {
+      align-items: center;
+      .column:first-child {
+        width: 100%;
+      }
+      .column:last-child {
+        width: 100%;
+      }
+      .column {
+        display: flex;
+        flex-wrap: wrap;
+      }
     }
   }
 }
@@ -109,7 +105,80 @@
 //qualifications
 
 //Topic
+.topic {
+  margin-top: 10px;
+  .py-5  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+.card{
+  width: auto;
+  margin-bottom: 10px;
+}
+.card-header{
+  background-color: lightgrey;
+}
+
+}
 
 //Work
 
 //Portfolio
+
+
+
+@media print {
+  .logo-container,
+  .img-wrapper,
+  img {
+    max-height: 50px !important;
+    height: 100% !important;
+  }
+
+  .text-bg-dark {
+    color: black !important;
+  }
+
+  .badge {
+    color: black !important;
+  }
+
+  .site {
+    color: black !important;
+  }
+
+  .skills {
+    .row2 {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+    .row {
+      align-items: center;
+      width: auto;
+      display: flex;
+      justify-content: flex-start;
+      padding-right: 10px;
+      .column:first-child {
+        width: auto;
+        padding-right: 10px;
+      }
+      .column:last-child {
+        width: auto;
+        padding-left: 0px;
+      }
+      .column {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        width: auto;
+        justify-content: flex-start;
+      }
+    }
+  }
+
+  
+}

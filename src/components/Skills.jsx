@@ -3,10 +3,12 @@ function Skills({ skills }) {
     <div className="skills">
       <p>Skills</p>
       <hr />
+
+       <div className="row2">
       {skills?.map((data, i) => {
         return (
-          <div key={i}>
-            <div className="row">
+          <div className="row" key={i}>
+           
               <div className="column">
                 <div className="skillName">{data.name}</div>
               </div>
@@ -20,13 +22,15 @@ function Skills({ skills }) {
                     aria-valuenow="100"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                  ></div>
+                  >
+                    {data.progress + "%"}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
+        
         );
-      })}
+      })}  </div>
       <br />
     </div>
   );

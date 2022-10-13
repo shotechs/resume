@@ -1,78 +1,808 @@
 {
-      "describe": "Highly self-motivated and goal-oriented professional committed to pursuing a long-term career in web design. Offers a 10-year record of accomplishment that demonstrates strong analytical skills and problem solving expertise, compute platform proficiency, and great success with projects from ideation to completion. Owns a reputation for consistently exceeding client expectations for sophisticated web site development and functionality along with content management and precise theme creation.",
-      "contact": {
-        "name": "Rachon Dixon",
-        "phone": "(571) 572-2466",
-        "email": "shotechs@gmail.com",
-        "location": "Washington, D.C."
-      },
-      "portfolios": [
-        {
-          "site": "ShoLab.com",
-          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
-          "describe": "describe"
-        },
-        {
-          "site": "ShoLab.com",
-          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
-          "describe": "describe"
-        },
-        {
-          "site": "ShoLab.com",
-          "tech_used": ["NodeJS", "ReactJS", "AngularJS"],
-          "describe": "describe"
-        }
-      ],
-      "skills": [
-        {
-          "name": "html",
-          "progress": 100
-        },
-        {
-          "name": "React",
-          "progress": 100
-        },
-        {
-          "name": "Ruby",
-          "progress": 100
-        },
-        {
-          "name": "C++",
-          "progress": 100
-        }
-      ],
-      "topics": [
-        {
-          "name": "html",
-          "lists": ["test1", "test2", "test3"]
-        },
-        {
-          "name": "html2",
-          "lists": ["test1", "test2", "test3"]
-        },
-        {
-          "name": "html3",
-          "lists": ["test1", "test2", "test3"]
-        }
-      ],
-      "works": [
-        {
-          "company1": "company1",
-          "company2": "company2",
-          "start_date": "06/2021",
-          "end_date": "01/22",
-          "jobTitle": "Serverless API Developer",
-          "describe": "API design standards, patterns and best-practices especially Microservices • Knowledge of authentication, authorization of services via OAuth 2 • Test Junit, SOAPUI, Selenium, Cucumber, Postman • Java, Spring/Spring Boot, Hibernate • Relational and/or non-relational databases • JavaScript (NodeJS, ReactJS, AngularJS, Ionic), HTML5, CSS3 • CI/CD tools Jenkins, Maven, Jira, BitBucket • Experience working with agile methodologies (Scrum)",
-          "topics": ["NodeJS", "ReactJS", "AngularJS"]
-        },
-        {
-          "company1": "company1",
-          "company2": "company2",
-          "start_date": "06/2021",
-          "end_date": "01/22",
-          "jobTitle": "Serverless API Developer",
-          "describe": "API design standards, patterns and best-practices especially Microservices • Knowledge of authentication, authorization of services via OAuth 2 • Test Junit, SOAPUI, Selenium, Cucumber, Postman • Java, Spring/Spring Boot, Hibernate • Relational and/or non-relational databases • JavaScript (NodeJS, ReactJS, AngularJS, Ionic), HTML5, CSS3 • CI/CD tools Jenkins, Maven, Jira, BitBucket • Experience working with agile methodologies (Scrum)",
-          "topics": ["NodeJS", "ReactJS", "AngularJS"]
-        }
+  "describe": "Highly self-motivated and goal-oriented professional committed to pursuing a long-term career in web design. Offers a 10-year record of accomplishment that demonstrates strong analytical skills and problem solving expertise, compute platform proficiency, and great success with projects from ideation to completion. Owns a reputation for consistently exceeding client expectations for sophisticated web site development and functionality along with content management and precise theme creation.",
+  "contact": {
+    "name": "Rachon Dixon",
+    "phone": "(571) 572-2466",
+    "email": "shotechs@gmail.com",
+    "location": "Washington, D.C."
+  },
+  "portfolios": [
+    {
+      "site": "ShoLab.com",
+      "tech_used": ["HTML", "JS", "CSS3"],
+      "describe": "Showing off Front-end design skills"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "progress": 100
+    },
+    {
+      "name": "Angular",
+      "progress": 100
+    },
+    {
+      "name": "VUE",
+      "progress": 100
+    },
+
+    {
+      "name": "Salesforce",
+      "progress": 100
+    },
+
+    {
+      "name": "Marketing Cloud",
+      "progress": 100
+    },
+
+    {
+      "name": "AEM",
+      "progress": 100
+    },
+
+    {
+      "name": "Java",
+      "progress": 100
+    },
+    {
+      "name": "Spring Boot",
+      "progress": 100
+    },
+    {
+      "name": "Hibernate",
+      "progress": 100
+    },
+
+    {
+      "name": "Kotlin",
+      "progress": 100
+    },
+
+    {
+      "name": "Python",
+      "progress": 100
+    },
+
+    {
+      "name": "C++",
+      "progress": 100
+    },
+    {
+      "name": "Ruby",
+      "progress": 100
+    },
+
+    {
+      "name": "Rails",
+      "progress": 100
+    },
+    {
+      "name": "Solidity",
+      "progress": 100
+    },
+    {
+      "name": "Rust",
+      "progress": 100
+    },
+
+    {
+      "name": "Golang",
+      "progress": 100
+    },
+
+    {
+      "name": "Docker",
+      "progress": 100
+    },
+
+    {
+      "name": "Azure",
+      "progress": 100
+    },
+
+    {
+      "name": "AWS",
+      "progress": 100
+    },
+    {
+      "name": "SQL",
+      "progress": 100
+    },
+    {
+      "name": "MongoDB",
+      "progress": 100
+    },
+
+    {
+      "name": "Cassandra",
+      "progress": 100
+    },
+
+    {
+      "name": "ETL",
+      "progress": 100
+    },
+
+    {
+      "name": "Kafka",
+      "progress": 100
+    },
+
+    {
+      "name": "Jenkins",
+      "progress": 100
+    },
+
+    {
+      "name": "Jest",
+      "progress": 100
+    },
+    {
+      "name": "Linux",
+      "progress": 100
+    },
+    {
+      "name": "ServiceNow",
+      "progress": 100
+    },
+
+    {
+      "name": "JIRA",
+      "progress": 100
+    },
+
+    {
+      "name": "SCRUM",
+      "progress": 100
+    },
+
+    {
+      "name": "Selenium",
+      "progress": 100
+    },
+
+    {
+      "name": "Cucumber",
+      "progress": 100
+    },
+    {
+      "name": "Postman",
+      "progress": 100
+    },
+    {
+      "name": "PHP",
+      "progress": 100
+    },
+
+    {
+      "name": "Laravel",
+      "progress": 100
+    },
+
+    {
+      "name": "Wordpress",
+      "progress": 100
+    },
+
+    {
+      "name": "Drupal 9",
+      "progress": 100
+    },
+    {
+      "name": "C#",
+      "progress": 100
+    },
+
+    {
+      "name": "MVC",
+      "progress": 100
+    },
+    {
+      "name": "Typescript",
+      "progress": 100
+    },
+    {
+      "name": "GraphQL",
+      "progress": 100
+    },
+
+    {
+      "name": "CSS3",
+      "progress": 100
+    },
+
+    {
+      "name": "UI/UX",
+      "progress": 100
+    },
+
+    {
+      "name": "PWA",
+      "progress": 100
+    },
+
+    {
+      "name": "OAuth 2",
+      "progress": 100
+    },
+    {
+      "name": "JWT",
+      "progress": 100
+    }
+  ],
+  "topics": [
+    {
+      "name": "Adobe Campaign",
+      "lists": [
+        "Admin folder structures per user accounts",
+        "Execute queries and filters",
+        "Integrate inbound and outbound delivery templates workflow with notifications",
+        "Update data with csv with deduping",
+        "Export or import packages.",
+        "Customer journey management with personalization and segmentation",
+        "Automate the delivery of relevant content",
+        "Create data xml Schema",
+        "Create forms",
+        "A/B testing"
       ]
+    },
+    {
+      "name": "React",
+      "lists": [
+        "Create class, load data, binding.",
+        "Jest Testing Framework",
+        "Storybook Designing/developing prototypes"
+      ]
+    },
+    {
+      "name": "Angular 14",
+      "lists": [
+        "Admin folder structures per user accounts",
+        "Execute queries and filters",
+        "Integrate inbound and outbound delivery templates workflow with notifications",
+        "Update data with csv with deduping",
+        "Export or import packages.",
+        "Customer journey management with personalization and segmentation",
+        "Automate the delivery of relevant content",
+        "Create data xml Schema",
+        "Create forms",
+        "A/B testing"
+      ]
+    },
+
+    {
+      "name": "Redux.js",
+      "lists": [
+        "Building object and array reducers",
+        "Combining reducers",
+        "Creating a store",
+        "Creating middleware",
+        "Building action creators",
+        "Incorporating React components"
+      ]
+    },
+    {
+      "name": "VueJs ",
+      "lists": [
+        "Fetch api data add to elements",
+        "Use directives though expressions",
+        "Command line webpacks",
+        "Dynamic Route Matching"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "lists": ["For json style, crud edits."]
+    },
+    {
+      "name": "RDS DBs",
+      "lists": [
+        "5+ years experience in administration for SQL Server and/or MySQL databases",
+        "5+ years experience installing and maintaining database environments.",
+        "5+ years experience in writing, optimizing and deploying SQL scripts",
+        "5+ years experience in managing security and access to databases and database environments."
+      ]
+    },
+    {
+      "name": "Hadoop",
+      "lists": [
+        "for File System shell command for adding nodes, configuration, set credentials, kill process, key value pairs for reduce, shuffle, join, YARN for management and monitoring, hive for sql like commands."
+      ]
+    },
+    {
+      "name": "AWS ",
+      "lists": [
+        "EC2 for servers",
+        "S3 command line admin with roles, reigns and analytics",
+        "Rds with any database",
+        "add or decrease usage",
+        "Monitor metrics reports",
+        "Lambda Node JS AWS Java API"
+      ]
+    },
+    {
+      "name": "Docker ",
+      "lists": [
+        "for admin shell ps, lamp, sql server, cms, redis, expose ports, linking images & containers. Kitematic"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "lists": [
+        "https://github.com/shotechs/laravel_start/",
+        "Setting up the database in the model to update the view with binding, design the views partials, and Controller to handle/call any events and routes end points"
+      ]
+    },
+    {
+      "name": "PHPUnit ",
+      "lists": [
+        "Test-driven Development Advanced tactics to help provide full test coverage.",
+        "Test with mock data"
+      ]
+    },
+    {
+      "name": "Linux Ubuntu",
+      "lists": [
+        "root, apt, set permissions, curl, ps aux | grep app, config puppet master, bash scripts, "
+      ]
+    },
+    {
+      "name": "Android App ",
+      "lists": ["in Android Studio for java, xml view code. "]
+    },
+    {
+      "name": "Python",
+      "lists": [
+        "Write console apps and db connections. oop code patterns, pip for Python modules",
+        "Build for win32 and Unix platforms.",
+        "Django / Flask for mvc with bootstrap, Forms API, crud db, routes.",
+        "Python OpenCV ",
+        "Data types and structures ",
+        "Image types ",
+        "Manipulating pixels ",
+        "Scaling and rotating images ",
+        "Using video inputs ",
+        "Creating custom interfaces ",
+        "Thresholding ",
+        "Object detection ",
+        "Face and feature detection ",
+        "Template matching "
+      ]
+    },
+    {
+      "name": "Ruby on rails ",
+      "lists": [
+        "This project is a ruby on rails 4 landing page with bootstrap and jquery setup by ruby gems. With ruby the site ready to Deploy complex business rules, SEO and instrumentation. set route with controllers, template with bootstrap and ruby inject erb, rake for webbrick server start, sass, Gen mvc in bin/rails, Config database.yml, Gemfile for dependency info, run Bundle, Rail generate controllers, Append application controller, Gen model for active record migration"
+      ]
+    },
+    {
+      "name": "Node.js ",
+      "lists": [
+        "workflow gulpfile.js/gruntjs for task process with front end stack processers. ",
+        "Use npm for resources init, run server, docker container, minification of css, html, js for development or production. Unit testing, image batch, worked on coffescript, handlebars, jade, sass, watch folder"
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "lists": [
+        "admin, run workbench soql queries and see all objects in schema builder, create custom objects with one to many or many to many, event triggers with filters, charts for windows dashboards, run api such as retrieving records or bulk data to add csv, xml or files, handling failures by reading responses. Provide full test coverage by using @isTest. Apex mvc code with visual force. Force.com with eclipse.  Add Salesforce Web Components, AngularJS or react.js container. SalesforceIQ, Desk, Custom reports, LinkedIn Sales Navigator Integration, Social Studio, Data Management & security, Visualforce for improving performance by incorporating best practices, service cloud for customer service like web to case."
+      ]
+    },
+    {
+      "name": "Ember ",
+      "lists": [
+        "mvc best practices, emberfire firebase integration & retrieve data, routing with ids, setup with bower and npm, server start, command line actions, handlebars editing, ember inspector for debugging ember applications, heroku deploy with buildpacks.",
+        "https://github.com/shotechs/emberTask",
+        "https://warm-caverns-38125.herokuapp.com"
+      ]
+    },
+    {
+      "name": "Salesforce Experience",
+      "lists": [
+        "Experience in Administration, Configuration, Implementation, Lightning, and support experience with Salesforce platform.",
+        "Experience in Salesforce Customization, Security Access, Workflow Approvals, Data Validation, data utilities, Analytics, sales, Marketing, Customer Service, and Support Administration.",
+        "Expertise in SFDC Development using Lightning Application, Apex Language, Visual Force Pages, Classes, Controllers, Triggers, Indexes, Locks Web Services, Components, Tabs, Apex Web services, Custom Objects, Reports, Analytic Snapshots and Dashboards, Profiles, Creating Roles, Page Layouts, Org - Wide default, Sharing rules, Work Flows.",
+        "Involved in various stages of Software Development Life Cycle (SDLC) including analysis, requirement engineering, architecture design, development, deployment and maintenance of standalone, Multi-tier, web-based and portals based object oriented enterprise applications.",
+        "Worked on Lightning Process builder flows, Connect API, Chatter and quick Action.",
+        "Integration Methodologies, different API, Trigger framework, Recursive Triggers, VF Remoting, Asynchronous Framework & options.",
+        "Good Experience on Salesforce Lightning. Experience in third party integration with ERP (Marketing Cloud, Service Cloud).",
+        "Hands on experience in writing queries using SOQL and SOSL in Apex Classes and Triggers.",
+        "Creating Custom Apps, Custom fields, Profiles, Applying Sharing Rules, Handling Page Layouts, Search Layouts, and Related List and defining Field Dependencies, custom buttons, Validation Rules, workflows, approval processes.",
+        "Ensured data integrity through the appropriate use of de-duping, loading, and exporting tools, for bulk of data using Data Loader, Admin Garage, and Lexi Loader.",
+        "Performed user & administration training sessions for clients to utilize Salesforce and respective programs.",
+        "Extensive experience with various Salesforce deployment methodologies including Change sets, Force.com Plug-in environment, Ant Migration tool kit and Eclipse.",
+        "Expertise in maintaining the functional areas of Data Management, Campaigns, Leads, Forecasting Accounts, Contacts, Opportunities, Quotes, Activities, Dashboards and Reports.",
+        "Strong Knowledge in AppExchange Applications for integrating with third party applications.",
+        "Strong knowledge of SFDC standard data structures and familiarity with Force.com Explorer, Data loader and Import Wizard.",
+        "Provide technical architecture strategy and guidance for Salesforce rollouts, and assist with design for adoption strategy.",
+        "Support and provide recommendations to the COO, CTO, VP of Sales, and VP of Services by tailoring Salesforce.com to meet agile business needs.",
+        "Experience in SFDC Integration using Web Service and Apex Programming, App-Exchange Packages& Custom Applications, Salesforce.com Service Cloud expertise.",
+        "Experience working with Sales cloud and Service cloud.",
+        "Extracted the data from salesforce.com application into the external databases like SQL, DB2 for generating large data reports.",
+        "Experienced in scripting languages like HTML, XML, CSS, JSP, WSDL, SOAP, AJAX, APEX Web Services API development skills and Java Script, Web Services-Axis.",
+        "Worked Developer and as well as a Business Analyst for full-cycle projects, to complete consulting projects on time, and deliver outstanding consulting services to salesforce.com "
+      ]
+    },
+    {
+      "name": "AEM Experience",
+      "lists": [
+        "Around 4+ years of Expertise in AEM, CQ5, Forms, CRX, JCR, sling and OSGi technologies.",
+        "Experience Developing service in Events that gives JSON output for the events status & time. ",
+        "Creating and analyzing tests for forms, by setting the target server and integrating AEM Forms in it.",
+        "Excellent work experience in Adobe Day CQ5, WCM, CMS, CRXDE, CRXDE Lite, OSGI Framework, JCR, Apache sling, template development, CQ5, Component Development, Administration and installation of author and Publish instances, DAM, workflow components in CQ5.x.. ",
+        "Expertise in CQ5 Author, Publisher and Dispatcher Administration with hands on experience in Upgrading Complex CQ environment. ",
+        "Experience in Adobe Experience Manager (AEM) including image and Videos (Digital Asset Management – DAM). ",
+        "Experience on Java Content Repository (API) suite, Sling Web Framework and Apache Felix OSGI Framework. ",
+        "Extensive experience of Front End Technologies: AJAX, JSTL, JSP, HTML, EXT JS, JavaScript, jQuery and CSS. ",
+        "Created an IBM Websphere and Adobe Scene7 training manual for the E-commerce department skills",
+        "Hands on experience in Java 1.5, J2EE, JDBC, Multithreading, Servlets, JSP, JavaScript, XML, Web Services, REST services, Struts, JSTL, Hibernate, IBatis, SQL, PLSQL, AJAX, CA Harvest Manager, Tortoise SVN.",
+        "Well versed with Application Servers WebSphere6.x and Web Server Tomcat 5.5/6.0.",
+        "Hands on experience on tomcat Application Server. Developed applications using Object Oriented Methodologies.",
+        "Proven expertise in building N-Tier Web Applications using Servlets, JSP using MVC and Struts 1.x framework.",
+        "Good understanding of Java content repositories, sling request processing and OSGi bundles.",
+        "Extensive experience in CQ, DSP, JSP and Display Tag for User Interface Development",
+        "Efficient use of various design patterns such as MVC (Model-View-Controller), Singleton, Service locator, DAO (Data Access Object), DTO (Data Transfer Object), and BusinessDelegate in the development of distributed Enterprise Applications. ",
+        "Extensive and in-depth knowledge in WebLogic Server & Portal Server.",
+        "In-depth knowledge in design and development of MVC architecture using Struts framework.",
+        "Good knowledge of web services and has technical understanding of SOAP protocol, UDDI & WSDL.",
+        "Good understanding of J2EE Security framework. Having experience in configuration of SSL on WebLogic server.",
+        "Extensive knowledge and hands on experience with XML, HTML, DHTML, CSS, SQL, WAP.",
+        "Experience with Agile process methodology.",
+        "Good understanding of internet information architecture, social media applications, search engines, metadata, and tagging.",
+        "Proficient in using various IDEs like CRXDE, CRXDE-Lite, IntelliJ, and Eclipse."
+      ]
+    },
+    {
+      "name": "Java",
+      "lists": [
+        "JavaServer Faces (JSF)",
+        "Context and Dependency Injection (CDI)",
+        "JavaServer Pages (JSP) and Expression Language (EL)",
+        "Enterprise Java Beans (EJB)",
+        "Java Message Service (JMS)",
+        "Java Persistence API (JPA)",
+        "Bean Validation API",
+        "Java API for RESTful Web Services (JAX-RS)",
+        "WebSocket API",
+        "JSON Processing API",
+        "Batch Processing API"
+      ]
+    },
+    {
+      "name": "Java Spring Boot ",
+      "lists": [
+        "Creating a Spring Boot application",
+        "Configuring a Spring Boot MVC app with tomcat",
+        "Leveraging profiles",
+        "Packaging and running Spring Boot web apps",
+        "Building a command-line application",
+        "Using Spring Boot starters: Spring Data, Spring Security, and Implementing a message consumer and producer",
+        "Extending Spring Boot.",
+        "Using Spring Boot Actuator to monitor app health and other metrics end points.",
+        "Spring Data Commons.",
+        "Using JPA for object-relational mapping.",
+        "Declaring Spring Data JPA Repositories.",
+        "Creating query methods with property expressions and @Query.",
+        "Spring Data REST with MongoDB.",
+        "JUint Test with Maven",
+        "Creating threads",
+        "Syncing threads"
+      ]
+    },
+    {
+      "name": "Java FX ",
+      "lists": [
+        "Creating JavaFX program",
+        "Drawing lines, shapes, and text",
+        "Applying effects",
+        "Adding and animating images and charts",
+        "Customizing interfaces with CSS",
+        "Creating FXML files",
+        "Adding UI components and event handlers",
+        "Defining controllers",
+        "Creating objects with the no-args constructor",
+        "Using factory methods to create UI objects"
+      ]
+    },
+    {
+      "name": "Apache Spark ",
+      "lists": [
+        "Machine learning workflows.",
+        "Organizing data in DataFrames.",
+        "Preprocessing and data preparation steps for machine learning like normalize, standardize, bucketize numeric data, and tokenize text data.",
+        "Clustering data by K-means or Hierarchical.",
+        "Classification algorithms like preprocessing, linear, decision tree, gradient-boosted tree.",
+        "Use components available in Spark MLlib.",
+        "Common approaches to designing recommendation systems."
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "lists": [
+        "Use with IntelliJ ide.",
+        "Work with all data types with managing null values.",
+        "Create custom Classes to include a library of functions.",
+        "Use a data class with private data fields’ setters and getters.",
+        "Pass functions as lambda expressions.",
+        "Manage data Collections."
+      ]
+    },
+    {
+      "name": "Trello  ",
+      "lists": [
+        "Understanding of boards, list and cards.",
+        "Adding teams members.",
+        "Integrating apps and power-ups like calendar.",
+        "Linking cards and boards together.",
+        "Project management with Kanban, GTD, Agile/scrum, and Gantt."
+      ]
+    },
+
+    {
+      "name": "ServiceNow",
+      "lists": [
+        "Submitting help desk tickets and order fulfillment request. Create filters for quick favorite search personalize list. Creating excel reports."
+      ]
+    },
+    {
+      "name": "SDLC (Agile), ",
+      "lists": [
+        "iterative development, code reviews, estimation and design sessions."
+      ]
+    },
+    {
+      "name": "Drupal 8 and wordpress",
+      "lists": [
+        "install or create Modules, custom themes, social networking api, video, build web forms, meta data, Taxonomy, edit mysql in lamp."
+      ]
+    }
+  ],
+  "works": [
+    {
+      "company1": "Metrosystemsinc.com",
+      "company2": "",
+      "start_date": "06/2021",
+      "end_date": "01/22",
+      "jobTitle": "Serverless API Developer",
+      "describe": "API design standards, patterns and best-practices especially Microservices",
+      "topics": [
+        "NodeJS",
+        "ReactJS",
+        "Postman",
+        "HTML5",
+        "NoSQL",
+        "Jira",
+        "BitBucket",
+        "Scrum",
+        "Jenkins",
+        "Java",
+        "Spring",
+        "Hibernate",
+        "OAuth"
+      ]
+    },
+    {
+      "company1": "Department of State",
+      "company2": "",
+      "start_date": "July 2019",
+      "end_date": "May 2021",
+      "jobTitle": "Applications Developer IV",
+      "describe": "API design standards, patterns and best-practices especially Microservices • Knowledge of authentication, authorization of services via OAuth 2 • Test Junit, SOAPUI, Selenium, Cucumber, Postman • Java, Spring/Spring Boot, Hibernate • Relational and/or non-relational databases • JavaScript (NodeJS, ReactJS, AngularJS, Ionic), HTML5, CSS3 • CI/CD tools Jenkins, Maven, Jira, BitBucket • Experience working with agile methodologies (Scrum)",
+      "topics": [
+        "Adobe",
+        "XML",
+        "508",
+        "WCAG",
+        "JavaScript",
+        "SCORM",
+        "Git",
+        "mobile",
+        "OAuth"
+      ]
+    },
+    {
+      "company1": "Wells Fargo",
+      "company2": "",
+      "start_date": "April 2019",
+      "end_date": "Nov 2019",
+      "jobTitle": "AEM Developer",
+      "describe": "Creating and maintaining dynamic XML documents and forms rendered as PDF or HTML with 508",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "OAuth"
+      ]
+    },
+    {
+      "company1": "Office of the Comptroller of the Currency",
+      "company2": "",
+      "start_date": "April 2018",
+      "end_date": "May 2019",
+      "jobTitle": "Adobe AEM Form Developer",
+      "describe": "Build process for forms with pre-process and submit process to MS SQL. Send personalize Email notifications with saving an XML or PDF files. Design Technical Design Document and Technical Design Presentation. Adobe AEM PDF design with JavaScript with RegEx.",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "MS SQL"
+      ]
+    },
+    {
+      "company1": "Johnson & Johnson",
+      "company2": "",
+      "start_date": "July 2018",
+      "end_date": "Jan 2019",
+      "jobTitle": "SFMC Consultant",
+      "describe": "Experience implementing/support SF Marketing Cloud (Exact Target) SFMC Operations Lead to develop/support Campaigns on Salesforce Marketing Studio/ExactTarget. Great knowledge of Solution designing using REST API, Audience Builder, Contact Builder, Journey Builder and MobilePush in Salesforce Marketing Cloud Exposure with Salesforce Marketing Cloud/ExactTarget Implementation Strong knowledge with designing and execution of campaigns Salesforce Web Components Knowledge of campaign optimization, Salesforce customization and campaign testing /n Good understanding Marketing Processes coupled with Salesforce Sales Cloud Strong experience in interacting with client and owning delivery in an onsite/offshore model.",
+      "topics": [
+        "SFMC",
+        "API",
+        "REST",
+        "MobilePush",
+        "Journey",
+        "JavaScript",
+        "Marketing",
+        "Campaigns",
+        "Email",
+        "SQL"
+      ]
+    },
+    {
+      "company1": "Centra Tech, Inc.",
+      "company2": "Miami Beach, FL",
+      "start_date": "Dec 2017",
+      "end_date": "March 2018",
+      "jobTitle": "Web Developer",
+      "describe": "Front end for UI for CodeIgniter, Laravel. Provided code for api (Laravel, nodeJS), nosql for php. Code new class for new cryptocurrency. Php class for zoho crm connections. OAuth 2 login system",
+      "topics": [
+        "Laravel",
+        "XML",
+        "PHP",
+        "WCAG",
+        "UI",
+        "JavaScript",
+        "crypto",
+        "Git",
+        "API",
+        "zoho",
+        "Slack",
+        "Agile"
+      ]
+    },
+    {
+      "company1": "Acceleration",
+      "company2": "Miami, FL",
+      "start_date": "Feb 2017",
+      "end_date": "Nov 2017",
+      "jobTitle": "DC Lead",
+      "describe": "HTML/CSS knowledge for Deployment of Email Campaigns. Support the team with technical requirements -- e.g. HTML, Email platform related questions. Be a liaison between the Campaign Services and Technical Team on all technical related requests. Develop SQL statements for database support, build and amend queries, and create data extensions.  Deployment Consultants on the Campaign Services Team Salesforce Web Components. Work with the Marketing Communications Campaign Services Team Lead to ensure that all Campaign deployments and/or Ad hoc requests has completed in the agreed turnaround time following all documented processes. Troubleshoot client related requests with internal teams (Technical team & Campaign Services Team). Import Data per specifications provided by client. To include, data splits—by region, demographic; data segmentation; weekly file importation. Track and escalate error programs for exclusion lists for client tactical campaigns. Handle ad hoc automation/trigger program requests in the ExactTarget platform Client Facing. Responsible for escalations to the Marketing Communications Campaign Services Team Lead when there is an issue affecting the client. Be the key point of contact on the Campaign Services Team for clients in terms of technical support for issues tied to campaign services (e.g. email address look ups, opt out inquiries, list inquiries, ExactTarget reporting, system support). Work with the client on data requests, file format, and error program communications. ",
+      "topics": [
+        "Salesforce Certified Administrator",
+        "Salesforce Certified Platform Developer I ",
+        "Salesforce Certified Marketing Cloud Email Specialist ",
+        "HTML/CSS",
+        "JavaScript",
+        "Email",
+        "Campaign",
+        "API",
+        "SQL"
+      ]
+    },
+    {
+      "company1": "Accenture",
+      "company2": "Austin, TX",
+      "start_date": "January 2016",
+      "end_date": "Dec 2016",
+      "jobTitle": "Software Developer",
+      "describe": "Build Word Technical Design Document. Build Adobe AEM LiveCycle Designer ES4 forms with JavaScript. Write SQL Queries with sql developer. Develop java Dao with eclipse for Oracle db. Lambda Node JS AWS Java API Config WebLogic for server startup. Develop Spring OOP web development for web pages. Conducted systems analysis and designing functions utilizing Adobe Live Cycle and Workbench Server. Assisted in analyzing business needs for development of software designs and coding. Supported technical assistance for review of designing solutions to support available requirements. Coordinated with technical team members in analysis, coding and testing services. Provided technical assistance in development and testing of complex programming codes. Developed solutions for electronic data submission through products of Adobe Live Cycle products. Participated in meetings and technical discussions for establishment and finalization of SOPs. Communicated with management about project status updates, estimations and support testing plans.",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "Oracle"
+      ]
+    },
+    {
+      "company1": "Adobe for US Army",
+      "company2": "Ft Dix, NJ",
+      "start_date": "July 2015",
+      "end_date": "Dec 2015",
+      "jobTitle": "Adobe AEM Form Developer",
+      "describe": "Responsible for forms development with Adobe AEM LiveCycle Designer with JavaScript, es4 workbench with xml. Success meeting deadlines under adverse conditions. Provide clean design and intelligence function code for user operation. Develop web service from soap. Provide Oracle database integration. Create online PDF and XPD forms using XML & JavaScript, Utilizing Digital Rights Management (DRM), Signature fields, Templates. Meeting with manager(s) on improving/editing forms",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "MS SQL",
+        "DRM",
+        "Soap",
+        "XPD"
+      ]
+    },
+    {
+      "company1": "Pearson",
+      "company2": "Denver, Co",
+      "start_date": "July 2014",
+      "end_date": "July 2015",
+      "jobTitle": "Content Manager",
+      "describe": "Responsible for content in html, JavaScript. Success meeting deadlines under adverse conditions.",
+      "topics": [
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Git",
+        "API",
+        "HTML",
+        "CSS3"
+      ]
+    },
+    {
+      "company1": "Board of Governors of the Federal Reserve System",
+      "company2": "Washington D.C",
+      "start_date": "April 2011",
+      "end_date": "April 2014",
+      "jobTitle": "Adobe AEM Form Developer",
+      "describe": "Responsible for updating form PDF to web & 508 standards with Adobe AEM Designer with JavaScript. Provide clean design and intelligence function code for user operation. Form Design improve the visual layout and user interface of forms to make them look more professional and easier to use. Testing form functionality. Make forms more interactive and intuitive by adding JavaScript functionality and custom validation scripts. Creating forms from start to finish. Set bindings to fields. Add barcode, email buttons, print buttons etc. Creating dynamic XML templates to be rendered as HTML or PDF file format. Utilizing Digital Rights Management (DRM) Templates",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "MS SQL"
+      ]
+    },
+    {
+      "company1": "IRS",
+      "company2": "",
+      "start_date": "Oct 2012",
+      "end_date": "Aug 2014",
+      "jobTitle": "Adobe AEM Form Developer",
+      "describe": "Responsible for updating form PDF to web & 508 standards with Adobe AEM Designer with JavaScript. Provide clean design and intelligence function code for user operation. Utilizing Digital Rights Management (DRM) (ensure users can input data and save forms).",
+      "topics": [
+        "AEM",
+        "XML",
+        "508",
+        "WCAG",
+        "RegEx",
+        "JavaScript",
+        "Java",
+        "Git",
+        "API",
+        "MS SQL"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,3 @@
-import React from "react";
-
 function Work({ works }) {
   return (
     <div className="work">

@@ -37,18 +37,18 @@ function Home() {
   return (
     <Container className="home">
       <div className="d-md-flex flex-md-equal w-100 ps-md-3">
-        <div className="text-bg-dark me-md-3 pt-3 px-3 pt-md-3 px-md-3">
+        <div className="text-bg-dark pt-3 px-3 ">
           <Contact contact={contact} myPic={myPic}></Contact>
           <br />
           <Skills skills={skills}></Skills>
         </div>
-        <div className="text-bg-dark me-md-3 pt-3 px-3 pt-md-3 px-md-3">
+        <div className="text-bg-dark pt-3 px-3 ">
           <Qualifications describe={qualifications}></Qualifications>
           <Work works={works}></Work>
-          <Topic topics={topics}></Topic>
-          <Portfolio portfolios={portfolios}></Portfolio>
         </div>
       </div>
+      <Topic topics={topics}></Topic>
+      <Portfolio portfolios={portfolios}></Portfolio>
       <div className="CopyR">
         Copyright © {new Date().getFullYear()} Shotechs@gmail.com
       </div>

@@ -7,14 +7,15 @@ function Portfolio({ portfolios }) {
       <hr />
       {portfolios?.map((data, i) => {
         return (
-          <div className="m-md-1" key={i}>
+          <div className="row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" key={i}>
+            🔗 
             <a
               href={"http://" + data.site}
               target="_blank"
               rel="noreferrer"
-              className="text-white site"
+              className="site"
             >
-              🔗 {data.site}
+              {data.site}
             </a>
             <div className="tech_used">
               {data.tech_used.map((data2, i) => {
