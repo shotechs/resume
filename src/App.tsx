@@ -10,9 +10,8 @@ export default function App() {
   return (
     <>
       <Header title={title} />
-
       <Routes>
-      <Route path="/" >
+      <Route path="/resume" >
         <Route index element={<Home/>} />
         <Route path="about" element={
         <React.Suspense fallback={<>...</>}>
