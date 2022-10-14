@@ -15,21 +15,24 @@
   ],
   "skills": [
     {
-      "name": "React",
-      "progress": 100
+      "name": "React Redux",
+      "progress": 90
     },
     {
       "name": "Angular",
-      "progress": 100
+      "progress": 80
     },
     {
       "name": "VUE",
-      "progress": 100
+      "progress": 80
     },
-
+    {
+      "name": "Nodejs",
+      "progress": 90
+    },
     {
       "name": "Salesforce",
-      "progress": 100
+      "progress": 90
     },
 
     {
@@ -39,16 +42,20 @@
 
     {
       "name": "AEM",
-      "progress": 100
+      "progress": 90
     },
 
     {
       "name": "Java",
-      "progress": 100
+      "progress": 90
+    },
+    {
+      "name": "Android",
+      "progress": 80
     },
     {
       "name": "Spring Boot",
-      "progress": 100
+      "progress": 80
     },
     {
       "name": "Hibernate",
@@ -57,82 +64,87 @@
 
     {
       "name": "Kotlin",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "Python",
+      "progress": 80
+    },
+    {
+      "name": "Django",
       "progress": 100
     },
-
+    {
+      "name": "C#",
+      "progress": 80
+    },
     {
       "name": "C++",
-      "progress": 100
+      "progress": 60
     },
     {
       "name": "Ruby",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "Rails",
-      "progress": 100
-    },
-    {
-      "name": "Solidity",
-      "progress": 100
-    },
-    {
-      "name": "Rust",
-      "progress": 100
-    },
-
-    {
-      "name": "Golang",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "Docker",
       "progress": 100
     },
-
+    {
+      "name": "Kubernetes",
+      "progress": 100
+    },
     {
       "name": "Azure",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "AWS",
-      "progress": 100
+      "progress": 80
+    },
+    {
+      "name": "GCP",
+      "progress": 60
     },
     {
       "name": "SQL",
-      "progress": 100
+      "progress": 90
     },
     {
-      "name": "MongoDB",
+      "name": "ORM",
+      "progress": 80
+    },
+    {
+      "name": "NoSQL",
       "progress": 100
     },
 
     {
       "name": "Cassandra",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "ETL",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "Kafka",
-      "progress": 100
+      "progress": 80
     },
 
     {
       "name": "Jenkins",
-      "progress": 100
+      "progress": 90
     },
 
     {
@@ -145,7 +157,7 @@
     },
     {
       "name": "ServiceNow",
-      "progress": 100
+      "progress": 80
     },
 
     {
@@ -172,13 +184,13 @@
       "progress": 100
     },
     {
-      "name": "PHP",
+      "name": "LAMP",
       "progress": 100
     },
 
     {
       "name": "Laravel",
-      "progress": 100
+      "progress": 80
     },
 
     {
@@ -188,11 +200,11 @@
 
     {
       "name": "Drupal 9",
-      "progress": 100
+      "progress": 90
     },
     {
       "name": "C#",
-      "progress": 100
+      "progress": 80
     },
 
     {
@@ -205,7 +217,7 @@
     },
     {
       "name": "GraphQL",
-      "progress": 100
+      "progress": 80
     },
 
     {
@@ -230,6 +242,58 @@
     {
       "name": "JWT",
       "progress": 100
+    },
+    {
+      "name": "Design",
+      "progress": 100
+    },
+    {
+      "name": "Redis",
+      "progress": 100
+    },
+    {
+      "name": "Campaign",
+      "progress": 100
+    },
+    {
+      "name": "API",
+      "progress": 100
+    },
+    {
+      "name": "SDLC",
+      "progress": 100
+    },
+    {
+      "name": "GOLANG",
+      "progress": 70
+    },
+    {
+      "name": "RUST",
+      "progress": 80
+    },
+    {
+      "name": "Solidity",
+      "progress": 60
+    },
+    {
+      "name": "Figma",
+      "progress": 100
+    },
+    {
+      "name": "Terraform",
+      "progress": 70
+    },
+    {
+      "name": "GraphQL",
+      "progress": 70
+    },
+    {
+      "name": "Firebase",
+      "progress": 100
+    },
+    {
+      "name": "Kafka",
+      "progress": 80
     }
   ],
   "topics": [
@@ -561,12 +625,74 @@
   ],
   "works": [
     {
-      "company1": "Metrosystemsinc.com",
+      "company1": "FreeAlliance",
       "company2": "",
-      "start_date": "06/2021",
-      "end_date": "01/22",
+      "start_date": "Sep 2021",
+      "end_date": "May 2022",
+      "jobTitle": "Senior Web Developer",
+      "describe": "E-Learning app used Jira tool for requirement gathering, GitHub Scrum Created API documentations. Configured Jenkins to continuous integrate and deploy (CI/CD) unit test cases",
+      "topics": [
+        "NodeJS",
+        "Bootstrap",
+        "Python",
+        "Typescript",
+        "React",
+        "Postman",
+        "HTML5",
+        "NoSQL",
+        "Jira",
+        "Express",
+        "Scrum",
+        "Jenkins",
+        "Java",
+        "Spring",
+        "Hibernate",
+        "OAuth"
+      ]
+    },
+    {
+      "company1": "Keysight",
+      "company2": "Tanishasystems.com",
+      "start_date": "Oct 2021",
+      "end_date": "Mar 2022",
+      "jobTitle": "Senior Web Developer",
+      "describe": "Develop Salesforce Lightining and API Elastic search with java spring, patterns and best-practices especially Microservices and TDD",
+      "topics": [
+        "NodeJS",
+        "Angular",
+        "Redux",
+        "JavaScript",
+        "CSS",
+        "MongoDB",
+        "Salesforce",
+        "Lightining",
+        "APIs",
+        "PostgreSQl",
+        "Sybase",
+        "Bootstrap",
+        "Python",
+        "Typescript",
+        "React",
+        "Postman",
+        "HTML5",
+        "NoSQL",
+        "Jira",
+        "Express",
+        "Scrum",
+        "Jenkins",
+        "Java",
+        "Spring",
+        "Hibernate",
+        "OAuth"
+      ]
+    },
+    {
+      "company1": "MSI Universal Inc. (MSI)",
+      "company2": "",
+      "start_date": "June 2021",
+      "end_date": "Jan 2022",
       "jobTitle": "Serverless API Developer",
-      "describe": "API design standards, patterns and best-practices especially Microservices",
+      "describe": "API design standards, patterns and best-practices especially Microservices authentication, authorization via OAuth 2",
       "topics": [
         "NodeJS",
         "ReactJS",
@@ -580,7 +706,7 @@
         "Java",
         "Spring",
         "Hibernate",
-        "OAuth"
+        "OAuth 2"
       ]
     },
     {
